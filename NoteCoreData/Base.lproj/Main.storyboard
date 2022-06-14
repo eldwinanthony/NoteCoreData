@@ -180,7 +180,22 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KvG-BK-3VE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1084" y="100"/>
+            <point key="canvasLocation" x="1134" y="98"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="bz0-pS-IiK">
+            <objects>
+                <viewController id="st7-eX-ufR" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="GmF-a4-a6m">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="ubn-K1-QW0"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="H8g-ki-Ytl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2049" y="97"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
