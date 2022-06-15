@@ -45,6 +45,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5C58E4B12859C30B0009E4B7 /* Fitur1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fitur1;
+			sourceTree = "<group>";
+		};
 		5CEDF41B2857840B00773325 = {
 			isa = PBXGroup;
 			children = (
@@ -64,6 +71,7 @@
 		5CEDF4262857840B00773325 /* NoteCoreData */ = {
 			isa = PBXGroup;
 			children = (
+				5C58E4B12859C30B0009E4B7 /* Fitur1 */,
 				5CEDF4272857840B00773325 /* AppDelegate.swift */,
 				5CEDF4292857840B00773325 /* SceneDelegate.swift */,
 				5CEDF42B2857840B00773325 /* NoteDetailVC.swift */,
